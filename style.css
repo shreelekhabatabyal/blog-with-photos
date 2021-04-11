@@ -1,0 +1,23 @@
+body {
+    background-image: url(https://img.freepik.com/free-photo/chrysanthemum-flowers-soft-pastel-color-blur-style-background_55710-384.jpg?size=626&ext=jpg&ga=GA1.2.1356500412.1617148800);
+}
+
+img {
+    width: 500px;
+    height: 400px;
+
+}
+
+h1 {
+    font-size: 40px;
+    font-family: fantasy;
+color: darkblue;
+   
+
+}
+h2{
+    
+    font-size: 25px;
+    font-family: cursive;
+color: orange;
+}
